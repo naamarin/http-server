@@ -6,3 +6,5 @@ Our server supports the following codes:
 200 OK.
 404 NOT FOUND.
 302 MOVED TEMPORARILY.
+
+(I did not write the sample site)
